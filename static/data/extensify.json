@@ -1,6 +1,9 @@
 {
   "name": "Extensify",
-  "description": "Build an IDE Extension, get a special keychain or a premium VS Code / Sublime Text Theme!",
+  "draft":false,
+  "description": "Build an IDE Extension, get a special keychain or a other extension-based prizes!",
+  "ys": "Any IDE Extension!",
+  "ws": "Multiple Prizes, including Keychains, premium themes, and paid extensions.",
   "website": "https://extensify.hackclub.com",
   "slack": "https://hackclub.slack.com/archives/extensify",
   "status": "active",
