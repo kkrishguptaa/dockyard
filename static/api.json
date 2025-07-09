@@ -16,6 +16,13 @@
     "deadline": "2025-08-31T23:59:59-04:00"
   },
   {
+    "name": "Toolsmith",
+    "description": "Build a AI extension (MCP tool), get $10 of AI credits.",
+    "website": "https://toolsmith.hackclub.com",
+    "slack": "https://hackclub.slack.com/archives/C094X38BFT5",
+    "deadline": "2025-07-11T23:59:59-04:00"
+  },
+  {
     "name": "Rewind",
     "description": "Build a desktop app, Get stickers, artifacts + a framed Windows XP image!",
     "website": "https://rewind.hackclub.com/",
