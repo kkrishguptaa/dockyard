@@ -1,0 +1,20 @@
+{
+  "name": "cmd + k",
+  "draft": false,
+  "description": "Build a Raycast extension, get Raycast Pro & stickers",
+  "ys": "A Raycast extension",
+  "ws": "Raycast Pro & stickers",
+  "extern": {
+    "website": "https://cmd-k.hackclub.com/",
+    "slack": {
+      "link": "https://hackclub.slack.com/archives/C0981BXG124",
+      "name": "cmd-k"
+    }
+  },
+  "timeline": [
+    {
+      "start": "2025-07-31T00:00:00-04:00",
+      "end": "2025-08-17T23:59:59-04:00"
+    }
+  ]
+}
