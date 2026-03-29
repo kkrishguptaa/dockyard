@@ -39,7 +39,7 @@ jobs:
           GITHUB_ISSUE: "${{ github.repository}}#${{ github.event.issue.number }}"
 
       - name: Run the Action
-        uses: devops-infra/action-commit-push@master
+        uses: devops-infra/action-commit-push@27149cbfffa9e55d987faf16c330102eb2016b9e # master
         with:
           github_token: "${{ secrets.GITHUB_TOKEN }}"
           commit_message: "chore: api-data-update"
